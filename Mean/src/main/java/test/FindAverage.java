@@ -6,7 +6,6 @@ import jade.lang.acl.ACLMessage;
 
 import java.io.IOException;
 import java.util.ArrayList;
-import java.util.Iterator;
 
 public class FindAverage extends TickerBehaviour{
     private final DefaultAgent agent;
